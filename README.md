@@ -1,4 +1,4 @@
-### Hi there 👋
+![general kenobi](https://i.imgur.com/ApjVnee.gif?noredirect)
 
 <!--
 **VaivanOmmeren/VaivanOmmeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
